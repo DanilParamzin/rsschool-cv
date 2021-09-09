@@ -25,7 +25,6 @@ I started to study frontend and study in my free time.I try to quickly and compl
 - Skillbox, Frontend-разработчик (Skillbox, 2020)
 
 ### Languages
-## Languages
 
 - Russian - native
 - English - A2

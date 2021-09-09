@@ -1,7 +1,3 @@
----
-Paramzin Danil - CV
-
----
 #  Paramzin Danil 
 
 ### Contacts
